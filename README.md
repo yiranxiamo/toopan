@@ -16,8 +16,7 @@
  * 增加后台管理页面英文公告、英文标题、英文页脚、英文关键词，使其在不同页面可以设置展示不同内容；
  * 删除系统语言检测，使其可以被非中文系统访问；
 ## 下载
-  * 已删除
-## 安装部署
+  * Github已删除
  ## 示例图
 ![图示1](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/2.png)
 ![图示2](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/3.png)
