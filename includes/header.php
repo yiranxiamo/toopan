@@ -44,7 +44,7 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
           <li class="<?php echo checkIfActive('bbs')?>"><a href="https://bbs.mediy.cn/"><i class="fa fa-commenting" aria-hidden="true"></i> 社区论坛</a></li>
-      <li class="<?php echo checkIfActive('yun.toopan.cn')?>"><a href="https://yun.toopan.cn/" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i> 注册登录</a></li>
+      <li class="<?php echo checkIfActive('toopan.cn')?>"><a href="https://toopan.cn/" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i> 注册登录</a></li>
           <li class="nav-item navbar-right dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <i class="fa fa-globe" class="navbar-right" aria-hidden="true"></i> 语言切换
