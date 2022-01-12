@@ -44,7 +44,7 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
           <li class="<?php echo checkIfActive('bbs')?>"><a href="https://bbs.mediy.cn/"><i class="fa fa-commenting" aria-hidden="true"></i> Community</a></li>
-      <li class="<?php echo checkIfActive('Agreement')?>"><a href="https://yun.toopan.cn/" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i> Registration and login</a></li>
+      <li class="<?php echo checkIfActive('Agreement')?>"><a href="https://toopan.cn/" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i> Registration and login</a></li>
           <li class="nav-item navbar-right dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <i class="fa fa-globe" aria-hidden="true"></i> Language
