@@ -186,3 +186,45 @@ $.snackbar({content: "<?php echo $conf['gonggao']?>", timeout: 10000});
 
 </script>
 <?php }?>
+<div style="text-align: center;">
+    	<style>
+		.f6F9Be{background:#F5F5F5;line-height:40px;min-width:980px;border-top:1px solid #F5F5F5;min-width:400px}
+		.B4GxFc{margin-left:166px}
+		.fbar p,.fbar a,#fsettl,#fsett a{color:#E0E0E0}
+		.fbar a:hover,#fsett a:hover{color:#333}
+		.fbar{font-size:14px}
+		.EvHmz{left:0;right:0}
+		.hRvfYe a:hover{text-decoration:0}#fsl{margin-left:30px;float:left}#fsr{float:right;margin-right:30px;}
+	</style>	
+<style
+type="text/css">
+<!--
+a:link
+{
+text-decoration:
+none;
+}
+a:visited
+{
+text-decoration:
+none;
+}
+a:hover
+{
+text-decoration:
+none;
+}
+a:active
+{
+text-decoration:
+none;
+}
+-->
+</style>
+
+<a class="btn" href="https://www.toopan.cn/" target="_blank"><font color="#6496b4">首页</a>&nbsp;|&nbsp;<a class="btn" href="https://www.mediy.cn/" target="_blank"><font color="#6496b4">社区论坛</a>&nbsp;|&nbsp;<a class="btn" href="https://www.doodq.com/Agreement.php" target="_blank"><font color="#6496b4">用户协议</a>&nbsp;|&nbsp;<a class="btn" href="https://www.toopan.cn" target="_blank"><font color="#6496b4">文件广场</a>
+<hr/>
+<div style="font:12px Microsoft YaHei; margin:0px auto; text-align:center;">
+<link href="//cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	  <a class="btn" href="https://www.mediy.cn" target="_blank"><font color="#757575">Copyright &copy; 2020 Mediy.cn 版权所有</a><a class="btn" href="https://beian.miit.gov.cn" target="_blank"><font color="#757575">蜀ICP备2020028076号</a>
+</div>
