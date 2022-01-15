@@ -1,7 +1,7 @@
  ## 概要
 
  * 免费网盘, 免费图床, 临时网盘, 文件仓库, 文件外链, 文件猎奇, 免费外链, 游客上传
- * 实例Demo: https://www.toopan.cn/
+ * 实例Demo: https://pan.mediy.cn/
  
 ## 说明
 
@@ -17,7 +17,7 @@
  * 删除系统语言检测，使其可以被非中文系统访问；
  * 增加前台搜索功能，便于访客搜索文件；
 ## 下载
-  * Github已删除
+  
  ## 示例图
 ![图示3](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/4.png)
 ![图示1](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/2.png)
