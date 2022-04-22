@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title><?php echo $conf['titleA']?></title>
+  <title><?php echo $conf['title']?></title>
   <meta name="keywords" content="<?php echo $conf['keywords']?>">
   <meta name="description" content="<?php echo $conf['description']?>">
   <!-- Mobile support -->
