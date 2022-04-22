@@ -7,6 +7,31 @@ if($islogin==1){}else exit("<script language='javascript'>window.location.href='
 <?php
 $mysqlversion=$DB->getColumn("select VERSION()");
 ?>
+<style
+type="text/css">
+<!--
+a:link
+{
+text-decoration:
+none;
+}
+a:visited
+{
+text-decoration:
+none;
+}
+a:hover
+{
+text-decoration:
+none;
+}
+a:active
+{
+text-decoration:
+none;
+}
+-->
+</style>
 <link href="../assets/css/admin.css" rel="stylesheet"/>
 <div class="container" style="padding-top:70px;">
 <div class="col-md-12 col-lg-10 center-block" style="float: none;">
